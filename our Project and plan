@@ -1,0 +1,14 @@
+Project Idea:
+Drought and rainfall variability threaten both cereal production and water security in Syria. This project proposes an early warning and planning prototype that estimates national wheat and barley production using historical production and climate data, while assessing drought related water risks through climate indicators and satellite observations of reservoir surface water changes. The prototype will present production estimates, water risk indicators, and simple drought scenarios to support earlier planning by agricultural and water sector decision makers
+Relevance to Sustainable Development Goals (SDGs):
+• The project supports SDG 2 (Zero Hunger) by estimating national wheat and barley production to inform food security planning.
+• It supports SDG 6 (Clean Water and Sanitation), particularly Target 6.4, by monitoring drought related risks to water availability and informing early water planning decisions.
+• It also supports SDG 13 (Climate Action) by combining rainfall, drought, and reservoir surface-water indicators to help decision-makers prepare for climate-related risks
+Literature Examples:
+• Rojas, O. (2021). “Next Generation Agricultural Stress Index System (ASIS) for Agricultural Drought Monitoring.” Remote Sensing, 13(5), 959. Link This study presents FAO’s use of satellite-based vegetation and temperature indicators to monitor agricultural drought and support early action. It provides an example for the crop-risk component of this project.
+• Zhao, G., & Gao, H. (2019). “Towards Global Hydrological Drought Monitoring Using Remotely Sensed Reservoir Surface Area.” Geophysical Research Letters, 46(22), 13027–13035. Link
+This study uses satellite observations of reservoir surface area to develop an indicator of hydrological drought, providing an example for the project’s water-risk component
+Candidate data:
+FAO and FAOSTAT, HDX, CHIRPS V3, ERA5-LAND, Sentinel-2, Landsat
+Proposed Approach:
+The prototype will be developed in phases. First, it will focus on food security by combining national wheat and barley production data with climate indicators to build a production-estimation model, an interactive dashboard, and a “What-If” simulator for drought scenarios. Next, subject to suitable satellite-data availability, it will add a pilot module to monitor drought-related changes in the surface-water area of one selected reservoir and display water-risk indicators. If time allows, the prototype may be extended with Telegram alerts and a conversational assistant for basic user questions
